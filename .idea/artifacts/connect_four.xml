@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="connect-four">
+    <output-path>$PROJECT_DIR$/out/artifacts/connect_four</output-path>
+    <root id="root">
+      <element id="archive" name="connect_four.jar">
+        <element id="module-output" name="connect-four" />
+      </element>
+    </root>
+  </artifact>
+</component>
